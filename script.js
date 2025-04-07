@@ -1,5 +1,5 @@
-
 document.addEventListener("DOMContentLoaded", function() {
+    alert("*stoops*");
     const toggleButton = document.getElementById("toggleButton");
     
     toggleButton.addEventListener("click", function() {
