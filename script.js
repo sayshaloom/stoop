@@ -1,4 +1,4 @@
-alert("*stoops*");
+alert("hi");
 document.addEventListener("DOMContentLoaded", function() {
     const toggleButton = document.getElementById("toggleButton");
     
